@@ -1,3 +1,7 @@
+*{
+  margin: 0;
+  padding: 0;
+}
 header{
   background-image: url(../images-files/moving\ 1.png);
   height: 100vh;
@@ -25,4 +29,22 @@ div a:hover{
 }
 .menu-icon-6{
   background-color: black;
+}
+.page-text{
+  font-size: 20px;
+  text-align: center;
+  color: yellow;
+}
+.image-pic{
+  margin-top: 20px;
+  border-top-right-radius: 20%;
+  border-bottom-left-radius: 20%;
+
+}
+.image-1{
+  height: 300px;
+  width: 500px;
+}
+.marketing{
+  float: right;
 }
