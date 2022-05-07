@@ -35,6 +35,10 @@ div a:hover{
   text-align: center;
   color: yellow;
 }
+h2{
+  color: white;
+  text-align: center;
+}
 .image-pic{
   margin-top: 20px;
   border-top-right-radius: 20%;
@@ -46,5 +50,14 @@ div a:hover{
   width: 500px;
 }
 .marketing{
-  float: right;
+  text-align: center;
+}
+.text-paragraph{
+  text-align: center;
+  margin: 0;
+  padding: 0;
+}
+button{
+  background-color: black;
+  padding: 5px;
 }
