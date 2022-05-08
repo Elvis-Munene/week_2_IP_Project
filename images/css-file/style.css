@@ -60,7 +60,6 @@ table,tr, td{
   width: 700px;
   border-collapse: collapse;
 }
-td{
-  border-top-right-radius: 20%;
-  border-bottom-left-radius: 20%;
+tr{
+  border-radius: 20%;
 }
