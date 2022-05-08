@@ -2,7 +2,7 @@
 # Quick Movers Website
 # By Elvis Munene
 # Screenshot
-![Quick Movers](./assets/images-files/Screenshot%20from%202022-05-08%2023-24-20.png)
+![Quick Movers](../week-2-ip/assets/images-files/Screenshot%20from%202022-05-08%2023-24-20.png)
 ## Table of Content
 * Description.
 * Features
