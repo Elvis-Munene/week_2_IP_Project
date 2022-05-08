@@ -33,7 +33,7 @@ Installation Process
 *use a broser to open the file.
 
 # Live Link
-
+https://elvis-munene.github.io/week_2_IP_Project/
 # Technology Used
 * cascading syling sheet.
 * Hypertext Markup Language.
