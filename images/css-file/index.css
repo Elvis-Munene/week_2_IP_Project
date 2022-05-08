@@ -50,14 +50,18 @@ h2{
   border-bottom-left-radius: 20%;
 
 }
-.marketing{
+.image-movers-test{
+  display: flex;
+
+}
+/* .marketing{
   text-align: center;
 }
 .text-paragraph{
   text-align: center;
   margin: 0;
   padding: 0;
-}
+} */
 button{
   background-color: black;
   padding: 5px;
@@ -69,4 +73,8 @@ button{
 }
 .head-section{
   font-size: 40px;
+}
+.mixed span{
+  color: yellow;
+  margin-top: 30px;
 }
