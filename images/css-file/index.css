@@ -3,8 +3,8 @@
   padding: 0;
 }
 img{
-  height: 300px;
-  width: 300px;
+  height: 500px;
+  width: 500px;
   padding: 20px;
 }
 header{
@@ -18,6 +18,9 @@ header{
   display: flex;
   flex-direction: row;
   float: right;
+  justify-content: space-evenly;
+  margin-right: 200px;
+  padding-top: 80px;
 }
 div a{
   color:white;
@@ -37,9 +40,9 @@ div a:hover{
 }
 .page-text{
   font-size: 20px;
-  text-align: center;
   color: yellow;
 }
+
 /* h2{
   color: white;
   text-align: center;
@@ -54,8 +57,13 @@ div a:hover{
   display: flex;
 
 }
-.this-is-text{
-  text-align: center;
+.marketing{
+  padding: 30px;
+  padding-top: 150px;
+}
+.marketing> span{
+  color: green;
+  border-top: 3px solid gold;
 }
 .text-paragraph{
   text-align: center;
@@ -63,8 +71,11 @@ div a:hover{
   padding: 0;
 } 
 button{
+  padding: 10px;
+  font-size: 10px;
+  color: gold;
   background-color: black;
-  padding: 5px;
+  border-top-right-radius: 20%;
 }
 .moving-images{
   display: flex;
@@ -74,6 +85,18 @@ button{
 }
 .head-section{
   font-size: 40px;
+}
+section>.para1{
+  padding-top: 150px;
+  padding-left: 0;
+  font-size: 50px;
+  color: yellow;
+}
+section>.para2{
+  margin-top: 50px;
+  font-size: 30px;
+  color: white;
+
 }
 .mixed span{
   color: yellow;
