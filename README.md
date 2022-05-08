@@ -12,3 +12,29 @@
 * Technology used
 * Licence
 * Authors Info
+# Description
+***
+This project is a web site for Quck Movers. The webiste shows information about the services offered by the company. (p)
+
+# Features
+***
+Users for this application will be able to (p)
+1. contact Quick movers.
+2. Request for services.
+3. See the services being offered by Quick Movers.
+
+Requirements.
+1. Possetion of a computing devive eg phone, computer, tablet or laptop.
+2. Internet conectivity.
+Installation Process
+***
+*git clone:
+*unzip the file.
+*use a broser to open the file.
+
+# Live Link
+
+# Technology Used
+* cascading syling sheet.
+* Hypertext Markup Language.
+
