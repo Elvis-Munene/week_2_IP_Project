@@ -40,10 +40,10 @@ div a:hover{
   text-align: center;
   color: yellow;
 }
-h2{
+/* h2{
   color: white;
   text-align: center;
-}
+} */
 .image-pic{
   margin-top: 20px;
   border-top-right-radius: 20%;
@@ -54,14 +54,14 @@ h2{
   display: flex;
 
 }
-/* .marketing{
+.this-is-text{
   text-align: center;
 }
 .text-paragraph{
   text-align: center;
   margin: 0;
   padding: 0;
-} */
+} 
 button{
   background-color: black;
   padding: 5px;
@@ -69,6 +69,7 @@ button{
 .moving-images{
   display: flex;
   flex-wrap: wrap;
+  margin-top: 50px;
 
 }
 .head-section{
@@ -77,4 +78,7 @@ button{
 .mixed span{
   color: yellow;
   margin-top: 30px;
+}
+.icons{
+  text-decoration: none;
 }
