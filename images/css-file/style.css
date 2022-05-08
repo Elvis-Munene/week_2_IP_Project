@@ -19,9 +19,16 @@ hr{
 .small-text{
   color: white;
 }
+.prise-size{
+  display: flex;
+}
+
 .image-big-1{
   width: 700px;
   margin-top: 50px;
+}
+.images{
+  margin-left: 150px;
 } 
 .small-images{
   width: 700px;
@@ -46,4 +53,14 @@ hr{
 }
 .image-7{
   width: 70px;
+}
+table,tr, td{
+  border: 1px solid;
+  margin-left: 150px;
+  width: 700px;
+  border-collapse: collapse;
+}
+td{
+  border-top-right-radius: 20%;
+  border-bottom-left-radius: 20%;
 }
