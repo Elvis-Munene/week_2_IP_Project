@@ -82,3 +82,23 @@ button{
 .icons{
   text-decoration: none;
 }
+footer{
+  background-color: black;
+  height: 30vh;
+  background-size: cover;
+  background-position: center;
+  color: white;
+}
+.top-footer{
+  display: flex;
+  margin-top: 50px;
+  padding: 30px;
+}
+h1 span{
+  color: yellow;
+}
+.table-area{
+  float: right;
+  margin-top: 50px;
+  margin-right: 100px;
+}
