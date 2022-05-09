@@ -4,7 +4,6 @@
 # Screenshot
 ![Quick Movers](../week-2-ip/assets/images-files/Screenshot%20from%202022-05-08%2023-24-20.png)
 <img src="../week-2-ip/assets/images-files/Screenshot%20from%202022-05-08%2023-24-20.png" alt="">
-im
 ## Table of Content
 * Description.
 * Features
